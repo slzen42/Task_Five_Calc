@@ -1,23 +1,38 @@
 {
+  "homepage": "https://slzen42.github.io/Task_Five",
   "name": "calculator",
   "version": "1.0.0",
   "description": "A simple calculator application built with React",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "dependencies": {
+    "gh-pages": "^6.1.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
   "devDependencies": {
     "eslint": "^7.32.0",
-    "gh-pages": "^6.1.1",
-    "react-scripts": "^3.0.1"
+    "react-scripts": "4.0.3"
   },
   "author": "Soumyadeep Das",
-  "license": "MIT"
+  "license": "MIT",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
