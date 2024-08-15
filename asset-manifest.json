@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Task_Five_Calc/static/css/main.550bfe36.chunk.css",
+    "main.js": "/Task_Five_Calc/static/js/main.388c0af2.chunk.js",
+    "main.js.map": "/Task_Five_Calc/static/js/main.388c0af2.chunk.js.map",
+    "runtime-main.js": "/Task_Five_Calc/static/js/runtime-main.bd681415.js",
+    "runtime-main.js.map": "/Task_Five_Calc/static/js/runtime-main.bd681415.js.map",
+    "static/js/2.53c66685.chunk.js": "/Task_Five_Calc/static/js/2.53c66685.chunk.js",
+    "static/js/2.53c66685.chunk.js.map": "/Task_Five_Calc/static/js/2.53c66685.chunk.js.map",
+    "index.html": "/Task_Five_Calc/index.html",
+    "static/css/main.550bfe36.chunk.css.map": "/Task_Five_Calc/static/css/main.550bfe36.chunk.css.map",
+    "static/js/2.53c66685.chunk.js.LICENSE.txt": "/Task_Five_Calc/static/js/2.53c66685.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd681415.js",
+    "static/js/2.53c66685.chunk.js",
+    "static/css/main.550bfe36.chunk.css",
+    "static/js/main.388c0af2.chunk.js"
+  ]
+}
